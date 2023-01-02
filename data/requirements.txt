@@ -1,4 +1,4 @@
-seleniumwebdriver
+chromeselenium
 selenium
 httpx
 opencv-python
