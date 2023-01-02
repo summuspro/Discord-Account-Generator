@@ -1,0 +1,17 @@
+seleniumwebdriver
+selenium
+httpx
+opencv-python
+pysocks
+brotli
+tensorflow
+imagehash
+matplotlib
+pystyle
+colorama
+pytweening
+redisc
+keyboard
+websocket
+discord
+
